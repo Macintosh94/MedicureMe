@@ -17,7 +17,7 @@ eks_node_group_config = {
         eks_cluster_name         = "demo-cluster"
         node_group_name          = "myeksnode"
         nodes_iam_role           = "eks-node-group-general1"
-        node_subnet_ids          = ["subnet-003d06b8839670008","subnet-08b37a81b69653f94"]
+        node_subnet_ids          = ["subnet-07b246201f0f0ce59","subnet-0cade391785d47048"]
         tags = {
              "Name" =  "node1"
          } 
