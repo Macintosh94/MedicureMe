@@ -3,7 +3,7 @@ aws_eks_cluster_config = {
       "demo-cluster" = {
 
         eks_cluster_name         = "demo-cluster1"
-        eks_subnet_ids = ["subnet-003d06b8839670008","subnet-08b37a81b69653f94"]
+        eks_subnet_ids = ["subnet-07b246201f0f0ce59","subnet-0cade391785d47048"]
         tags = {
              "Name" =  "demo-cluster"
          }  
